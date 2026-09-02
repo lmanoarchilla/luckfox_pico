@@ -1,0 +1,9 @@
+# Ignore everything in the repository
+/*
+
+# Except this .gitignore
+!/.gitignore
+
+# Keep the basic directory and everything inside it
+!/basic/
+!/basic/**
