@@ -1,9 +1,14 @@
 # Ignore everything in the repository
 /*
 
-# Except this .gitignore
+# Except this .gitignore LICENSE and README.md file
 !/.gitignore
 
+!/LICENSE
+!/README.md
 # Keep the basic directory and everything inside it
+
 !/basic/
 !/basic/**
+!/meminfo/
+!/meminfo/**
